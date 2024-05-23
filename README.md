@@ -6,8 +6,6 @@ Welcome to the first BOB's Buidlers Unconference: Connect, innovate, and share i
 
 <p style="font-size:20px;">A Buidler's Bitcoin UnConference.</p>
 
-A Buidler's Bitcoin UnConference
-
 BOB's Unconference — An event ongoing for a full week, dedicated to fostering innovation, privacy, and freedom within the Bitcoin community in Asia. We like to think of this as the most inclusive, organic, grassroots event possible for Bitcoin within Asia. 
 
 What can you expect at BOB's Unconference?
