@@ -1,4 +1,4 @@
-# Contributing to [Conference Name]
+# Contributing to BOBFERENCE
 
 Thank you for your interest in submitting a presentation proposal! Please follow the steps below to submit your proposal:
 
