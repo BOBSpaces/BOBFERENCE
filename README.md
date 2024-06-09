@@ -1,8 +1,10 @@
-![Sin título (1)](https://github.com/BOBSpaces/BOBFERENCE/assets/114900535/b266a3af-5862-482c-8ae1-48c920f140c9)
+![BOBFERENCE Poster](https://github.com/BOBSpaces/BOBFERENCE/assets/114900535/b266a3af-5862-482c-8ae1-48c920f140c9)
 
 <h1>#BOBFERENCE</h1>
 
-Welcome to the first BOB's Buidlers Unconference: Connect, innovate, and share ideas with fellow builders.
+Welcome to the first BOB's Buidlers Unconference: Connect, innovate, and share ideas with fellow builders. 
+
+Become part of the BOBFERENCE by making a **[proposal](CONTRIBUTING.md)**.
 
 <p style="font-size:20px;">A Buidler's Bitcoin UnConference.</p>
 
