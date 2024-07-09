@@ -1,4 +1,4 @@
-![BOBFERENCE Poster](https://github.com/BOBSpaces/BOBFERENCE/assets/114900535/b266a3af-5862-482c-8ae1-48c920f140c9)
+![BOBFERENCE Flyer](https://github.com/BOBSpaces/BOBFERENCE/assets/114900535/076511a4-7e42-44c2-b0cc-f1432edd5dc3)
 
 <h1>#BOBFERENCE</h1>
 
