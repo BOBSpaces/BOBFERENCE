@@ -24,7 +24,7 @@ What can you expect at BOB's Unconference?
 
 🟠 Recording Room: Altought BOBFERENCE is an off-camera event, there will be a room where anyone will be able to shoot their own podcast and what not. Participate in either as interviewer or interviewee
 
-🟠 Visibility & Sales: If you are working on cool Bitcoin Products/Services we got you, there's going to be a space
+🟠 Visibility & Sales: If you are working on badass Bitcoin consumer products/services we got you, there's going to be a space for showcasing and promoting these innovations to curated audience.
 
 Why Join Us?
 
