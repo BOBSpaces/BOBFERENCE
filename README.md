@@ -38,4 +38,4 @@ Why Join Us?
 
 Event Capacity and Logistics
 
-🟠 Join us at BOB's Unconference, where the ethos of Bitcoin's decentralization and open collaboration come to life.
+🟠 Maximum Capacity = 60 people on-site. RSVP TO BE ANNOUNCED.
