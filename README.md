@@ -8,7 +8,7 @@ Become part of the BOBFERENCE by making a **[proposal](CONTRIBUTING.md)**.
 
 <p style="font-size:20px;">A Buidler's Bitcoin UnConference.</p>
 
-BOB's Unconference — An event ongoing for a full week, dedicated to fostering innovation, privacy, and freedom within the Bitcoin Developer Community in Asia and BOBs Network. We like to think of this as the most inclusive, organic, grassroots event possible for Bitcoin within the continent. 
+BOB's Unconference — An event ongoing for a full week, dedicated to fostering innovation, privacy, and freedom within the Bitcoin Developer Community in Asia and BOBs Network. We like to think of this as the most inclusive, organic, grassroots event possible for Technical Bitcoiners within the continent. 
 
 What can you expect at BOB's Unconference?
 
